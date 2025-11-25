@@ -1,0 +1,3 @@
+Simple AI Assistant\
+Requires: pip install openai
+Run with: python assistant.py
